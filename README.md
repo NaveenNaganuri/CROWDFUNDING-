@@ -28,3 +28,6 @@
 * The dashboards is built using Tableau, Power BI, Excel  demonstrating powerful data storytelling through slicers, KPIs, trend lines, and maps.
 
 ## 🎯📊📈Conclusion A crowdfunding project is an excellent way to bring innovative ideas to life, particularly when traditional financing options are not available. Successful crowdfunding requires careful planning, a compelling story, effective promotion, and a clear value proposition to backers. With the right approach, it can provide not only the necessary capital but also the validation and community support that can drive long-term success.
+
+## ALL FILES OF CROWDFUNDING PROJECT (EXCEL, POWER BI, TABLEAU)
+* DRIVE LINK -https://drive.google.com/drive/folders/10JTyVVNOLIrbmVkqdxv3HXZ1mwySIi0D 
