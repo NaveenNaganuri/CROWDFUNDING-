@@ -24,7 +24,7 @@
 ## 📌📊Backers and Contributions:
 * Backers are individuals who pledge money to the project. In return, backers may receive rewards, early product access, special recognition, or a stake in the project. Crowdfunding allows creators to reach a wide audience, including people who may not be in their immediate network.
 
-## This project presents a detailed Tableau dashboard analyzing Kickstarter crowdfunding data. It visualizes campaign outcomes, top-backed projects, funding patterns, and success rates with interactive filtering options for time, category, and project state.
+## This project presents a detailed Tableau, Excel, Power BI  dashboards analyzing Kickstarter crowdfunding data. It visualizes campaign outcomes, top-backed projects, funding patterns, and success rates with interactive filtering options for time, category, and project state.
 * The dashboard is built using Tableau Desktop Public Edition, demonstrating powerful data storytelling through slicers, KPIs, trend lines, and maps.
 
 ## 🎯📊📈Conclusion A crowdfunding project is an excellent way to bring innovative ideas to life, particularly when traditional financing options are not available. Successful crowdfunding requires careful planning, a compelling story, effective promotion, and a clear value proposition to backers. With the right approach, it can provide not only the necessary capital but also the validation and community support that can drive long-term success.
